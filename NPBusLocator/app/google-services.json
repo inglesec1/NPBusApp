@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "260676096008",
+    "firebase_url": "https://np-bus-tracker.firebaseio.com",
+    "project_id": "np-bus-tracker",
+    "storage_bucket": "np-bus-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260676096008:android:8051cf935843da3b",
+        "android_client_info": {
+          "package_name": "bustracker.project.inglese.npbuslocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260676096008-6aafsrsir31pqv7jkac08e2bp8ajg7ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvs8NY8yD_ak8gz6edWN2nLOm_N8ScsuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

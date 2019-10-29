@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:elevation="4dp">
+
+    <item
+        android:id="@+id/action_schedule"
+        android:icon="@drawable/ic_description_white_48dp"
+        android:title="@string/action_schedule"
+        android:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home_white_48dp"
+        android:title="@string/action_home"
+        android:showAsAction="always"/>
+
+
+
+</menu>

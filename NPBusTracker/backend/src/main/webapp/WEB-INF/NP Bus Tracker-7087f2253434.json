@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "np-bus-tracker",
+  "private_key_id": "7087f2253434c282d4c3ec35327fec64ea49564b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDV3Nj3xRdxt+Lx\n0mdjq7kcCtRnb5XxJYJ4tkgCfsk3Dvjr7SaKz+T6kiuRVXeNvwd0B+Lh3BfCzmS2\nnqbSEY++xuu+9brx0hnwNldA5DnluoIRswizSv3uNs1Aio4MDw0d7cnjEvNpDQYE\noUFoGHjQLKmLNXV6hCikwyeaF6O2Ubs2s5iUk32tKla72l+dNXZXz9IUMpUyBgxA\nLGNtyk1aXSKPz3nmmdNA8uF7cPI9XMAES0kL/rd1lHsy8CaRaqcw8Djl8WTrA5xi\njdUfl4sOniVAqWeQw5EVrlZLtKJ0rZf1VO+yH4EJTs2yUKIsU+6PN93wVHnOKp6X\ni4/NhUi5AgMBAAECggEARPzyDLNKhceQ8PszmOZrV01zCU7oqpq0BOagQhXOKPGu\ngMTGmx7HOcFvRnmwkEwgRmDI4p0SGShlOrfhDoDVwu/+WmKAhMOG1INjEC7PMnlA\nvh7n3paBZZfODFTlz6QHUjFD3/lcBfZKi7HNHJxQVK8jniGHnRcG2WeO3dlkWUpa\n7IqrFW8c40Gxz8agDDBmpajWTILDgrJm/Jyel5YtajN7XJgaOLQIe5MX/CHcWauI\nqs9mTkREiv+0PrGuSgFoc2Zz8bHbsfiXavg5C1a3bzn/PiGKbjcCkHAygBOeak9Q\n9/cJVCjp7+Q2b32QARMKV7janSK58aNEuNrOILu70QKBgQD6w63BmqAhN2/K1vVP\niHlbPxy/lT7drRAx9Tpvyc9f20miUhNfoEi2DDTgWMeSaIVPmB3JfmumoDtsiR9e\neWKiT4dljLcdvyCbvH874hYrWBL8PoPsxbeZFvA9DObiKM0rYok0j8wx/K/+r3WO\nIKJZ8ToXcWgxMnGPpsdJalf9xQKBgQDaU+5v8C0YA61ucFzo0C3o6lPe1X7Z2vwn\nPxIfkfPR0oWQAaGfQow9rOszgb6k8bL5bwXHXUzlOZvcUhj9Isacpabhg7WCIhAO\nWXVxDiMea8zxkjAINP8l1cGDnv9eW7f8++dDgVS/pIpKr4txQR5pqBy46+ncX0Jc\nIo2gYFIiZQKBgQCsbqvnijT8QkuMFl4e74BLf018a9sLwbp2L+OcBRClIHw0su2B\nfw0gqaoebs3k3hx1S+uHp3fM3zedfXjllOB/LeKzsJwmR0vb6zUub1vBOFHtw+sh\ngB+slHpj8KA++cGDSMGCNDM8WD6JCgvyzHv3DwpcHm6ADejK1+sHj6mr5QKBgQDW\nx6rRRB2YekWrV66O+f2wHJXVqYHZH6zfjxRtKlAKImhyeqhc3ELKicn4KbM64OuI\npsewkQCMoFfMLpeWrxdkEzJQuBlfo9LXyvnV9mpmCvbaz02hRUGcHuT4bvoaAXDG\n16lyp1CQF3ZUcs1i5QTePBvFb4/o022c5gEdvKQQYQKBgAf5F1pXNvX5rpIrgv7t\nlVBmD+QVRLXs+sa8XxIOjD/b+jG5TnbyX3B5SNOoq0qy4RJ67mrlIH+8I6bZu3op\n0zQUHPhZ1CGsH5hwEnVmsqEuix3rFczG7MHtWM4pJrjQGMf/DsKQx3cJ+o0+HSjp\nqQSDvR8VptsV/GmcCL1fEiQ2\n-----END PRIVATE KEY-----\n",
+  "client_email": "map-servlet@np-bus-tracker.iam.gserviceaccount.com",
+  "client_id": "110831377794874893079",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/map-servlet%40np-bus-tracker.iam.gserviceaccount.com"
+}

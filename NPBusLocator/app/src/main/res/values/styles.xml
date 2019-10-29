@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">@color/colorStar</item>
+        <item name="android:colorPrimaryDark">@color/colorStarDark</item>
+        <item name="android:colorAccent">@color/colorStarSpare</item>
+        <item name="android:windowBackground">@color/colorStarDark</item>
+        <item name="android:buttonTintMode">@color/colorStarSpare</item>
+        <item name="android:colorEdgeEffect">@color/colorStarAccent</item>
+        <!--<item name="android:windowAnimationStyle">@null</item>-->
+    </style>
+
+
+</resources>
